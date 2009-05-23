@@ -1,13 +1,16 @@
 Package: packClassic
 Type: Package
 Title: Toy Pack Classic
-Version: 0.5
-Date: 2008-07-22
-Author: Christophe Genolini and some reader that send useful comments
+Version: 0.5.1
+Date: 2009-05-23
+Author: Author: Christophe Genolini (and some helpfull readers...)
 Maintainer: <genolini@u-paris10.fr>
-Description: This package comes to illustrate the tutorial "S4: From Idea To Package"
-License: GPL (>=2.0)
+Description: This package comes to illustrate the book "Petit Manuel de
+        Programmation Orientee Objet sous R"
+License: GPL (>= 2.0)
 LazyLoad: yes
 Depends: graphics
 URL: www.r-project.org,christophe.genolini.free.fr/webTutorial
-Packaged: Thu Sep 18 17:23:31 2008; Administrator
+Packaged: 2009-05-23 11:12:29 UTC; Christophe
+Repository: CRAN
+Date/Publication: 2009-05-24 08:36:32

@@ -1,24 +1,30 @@
 \name{publicAC}
+\Rdversion{1.1}
 \alias{publicA}
 \alias{publicC}
 
-\title{publicA and publicC} % Toy functions for packClassic
+\title{publicA and publicC}
+
 \description{
-Two great function that do very simple mathematical operation.
+  Two great function that do very simple mathematical operation.
 }
+
 \usage{
-publicA(x)
-publicC(x)
+  publicA(x)
+  publicC(x)
 }
+
 \arguments{
-  \item{x}{ \code{x} is a numeric}
+  \item{x}{\code{x} is a numeric}
 }
+
 \details{
-So simple, no details are needed.
+  So simple, no details are needed.
 }
+
 \value{A numeric}
 
-\references{S4: From An Idea To Its Package}
+\references{Book: "Petit Manuel de Programmation Orientee Objet sous R"}
 
 \author{Christophe Genolini <genolini@u-paris10.fr>}
 
