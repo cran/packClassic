@@ -16,8 +16,8 @@
   \tabular{ll}{
     Package: \tab packClassic\cr
     Type: \tab Package\cr
-    Version: \tab 0.5.1\cr
-    Date: \tab 2009-05-23\cr
+    Version: \tab 0.5.2\cr
+    Date: \tab 2009-10-15\cr
     License: \tab GPL(>=2.0)\cr
     LazyLoad: \tab yes\cr
   }
@@ -44,4 +44,6 @@ publicC(3)
 }
 
 \keyword{package}
+\keyword{documentation}
+
 

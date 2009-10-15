@@ -1,6 +1,6 @@
-
 export("publicA",
        ".publicB",
        "publicC"
 )
+
 importFrom(graphics,plot)
